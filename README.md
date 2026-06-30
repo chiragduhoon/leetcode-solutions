@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 60 &nbsp;·&nbsp; 🟢 Easy: 23 &nbsp;·&nbsp; 🟡 Medium: 35 &nbsp;·&nbsp; 🔴 Hard: 2
+**Total solved:** 71 &nbsp;·&nbsp; 🟢 Easy: 34 &nbsp;·&nbsp; 🟡 Medium: 35 &nbsp;·&nbsp; 🔴 Hard: 2
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -26,8 +26,11 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](75-sort-colors/) (`75-sort-colors/solution.cpp`) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Solution](76-minimum-window-substring/) (`76-minimum-window-substring/solution.cpp`) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](79-word-search/) (`79-word-search/solution.cpp`) |
+| 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Solution](83-remove-duplicates-from-sorted-list/) (`83-remove-duplicates-from-sorted-list/solution.cpp`) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Solution](88-merge-sorted-array/) (`88-merge-sorted-array/solution.cpp`) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](121-best-time-to-buy-and-sell-stock/) (`121-best-time-to-buy-and-sell-stock/solution.cpp`) |
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Solution](125-valid-palindrome/) (`125-valid-palindrome/solution.cpp`) |
+| 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Solution](136-single-number/) (`136-single-number/solution.cpp`) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Solution](141-linked-list-cycle/) (`141-linked-list-cycle/solution.cpp`) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Solution](150-evaluate-reverse-polish-notation/) (`150-evaluate-reverse-polish-notation/solution.cpp`) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](151-reverse-words-in-a-string/) (`151-reverse-words-in-a-string/solution.cpp`) |
@@ -36,25 +39,33 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Solution](162-find-peak-element/) (`162-find-peak-element/solution.cpp`) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](167-two-sum-ii-input-array-is-sorted/) (`167-two-sum-ii-input-array-is-sorted/solution.cpp`) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Solution](169-majority-element/) (`169-majority-element/solution.cpp`) |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [Solution](202-happy-number/) (`202-happy-number/solution.cpp`) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](209-minimum-size-subarray-sum/) (`209-minimum-size-subarray-sum/solution.cpp`) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Solution](219-contains-duplicate-ii/) (`219-contains-duplicate-ii/solution.cpp`) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](238-product-of-array-except-self/) (`238-product-of-array-except-self/solution.cpp`) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | [Solution](240-search-a-2d-matrix-ii/) (`240-search-a-2d-matrix-ii/solution.cpp`) |
+| 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](268-missing-number/) (`268-missing-number/solution.cpp`) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Solution](278-first-bad-version/) (`278-first-bad-version/solution.cpp`) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Solution](283-move-zeroes/) (`283-move-zeroes/solution.cpp`) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](287-find-the-duplicate-number/) (`287-find-the-duplicate-number/solution.cpp`) |
 | 303 | [Range Sum Query - Immutable](https://leetcode.com/problems/range-sum-query-immutable/) | Easy | [Solution](303-range-sum-query-immutable/) (`303-range-sum-query-immutable/solution.cpp`) |
+| 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Solution](344-reverse-string/) (`344-reverse-string/solution.cpp`) |
+| 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [Solution](349-intersection-of-two-arrays/) (`349-intersection-of-two-arrays/solution.cpp`) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Solution](374-guess-number-higher-or-lower/) (`374-guess-number-higher-or-lower/solution.cpp`) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [Solution](383-ransom-note/) (`383-ransom-note/solution.cpp`) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Solution](410-split-array-largest-sum/) (`410-split-array-largest-sum/solution.cpp`) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Solution](438-find-all-anagrams-in-a-string/) (`438-find-all-anagrams-in-a-string/solution.cpp`) |
+| 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [Solution](509-fibonacci-number/) (`509-fibonacci-number/solution.cpp`) |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Solution](525-contiguous-array/) (`525-contiguous-array/solution.cpp`) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Solution](560-subarray-sum-equals-k/) (`560-subarray-sum-equals-k/solution.cpp`) |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/) | Medium | [Solution](567-permutation-in-string/) (`567-permutation-in-string/solution.cpp`) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | [Solution](628-maximum-product-of-three-numbers/) (`628-maximum-product-of-three-numbers/solution.cpp`) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [Solution](643-maximum-average-subarray-i/) (`643-maximum-average-subarray-i/solution.cpp`) |
+| 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [Solution](680-valid-palindrome-ii/) (`680-valid-palindrome-ii/solution.cpp`) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](692-top-k-frequent-words/) (`692-top-k-frequent-words/solution.cpp`) |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](704-binary-search/) (`704-binary-search/solution.cpp`) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](875-koko-eating-bananas/) (`875-koko-eating-bananas/solution.cpp`) |
+| 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](977-squares-of-a-sorted-array/) (`977-squares-of-a-sorted-array/solution.cpp`) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](1011-capacity-to-ship-packages-within-d-days/) (`1011-capacity-to-ship-packages-within-d-days/solution.cpp`) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [Solution](1456-maximum-number-of-vowels-in-a-substring-of-given-length/) (`1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.cpp`) |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | [Solution](1652-defuse-the-bomb/) (`1652-defuse-the-bomb/solution.cpp`) |
