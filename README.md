@@ -2,14 +2,16 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 82 &nbsp;·&nbsp; 🟢 Easy: 44 &nbsp;·&nbsp; 🟡 Medium: 36 &nbsp;·&nbsp; 🔴 Hard: 2
+**Total solved:** 90 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 39 &nbsp;·&nbsp; 🔴 Hard: 2
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
 | 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | Easy | [Solution](1-two-sum/) (`1-two-sum/solution.cpp`) |
 | 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | Medium | [Solution](3-longest-substring-without-repeating-characters/) (`3-longest-substring-without-repeating-characters/solution.cpp`) |
 | 7 | [Reverse Integer](https://leetcode.com/problems/reverse-integer/) | Medium | [Solution](7-reverse-integer/) (`7-reverse-integer/solution.py`) |
+| 9 | [Palindrome Number](https://leetcode.com/problems/palindrome-number/) | Easy | [Solution](9-palindrome-number/) (`9-palindrome-number/solution.py`) |
 | 11 | [Container With Most Water](https://leetcode.com/problems/container-with-most-water/) | Medium | [Solution](11-container-with-most-water/) (`11-container-with-most-water/solution.cpp`) |
+| 13 | [Roman to Integer](https://leetcode.com/problems/roman-to-integer/) | Easy | [Solution](13-roman-to-integer/) (`13-roman-to-integer/solution.py`) |
 | 14 | [Longest Common Prefix](https://leetcode.com/problems/longest-common-prefix/) | Easy | [Solution](14-longest-common-prefix/) (`14-longest-common-prefix/solution.cpp`) |
 | 15 | [3Sum](https://leetcode.com/problems/3sum/) | Medium | [Solution](15-3sum/) (`15-3sum/solution.cpp`) |
 | 18 | [4Sum](https://leetcode.com/problems/4sum/) | Medium | [Solution](18-4sum/) (`18-4sum/solution.cpp`) |
@@ -22,6 +24,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Solution](31-next-permutation/) (`31-next-permutation/solution.cpp`) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Solution](33-search-in-rotated-sorted-array/) (`33-search-in-rotated-sorted-array/solution.cpp`) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](35-search-insert-position/) (`35-search-insert-position/solution.cpp`) |
+| 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](39-combination-sum/) (`39-combination-sum/solution.cpp`) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](50-powx-n/) (`50-powx-n/solution.cpp`) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](53-maximum-subarray/) (`53-maximum-subarray/solution.cpp`) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](58-length-of-last-word/) (`58-length-of-last-word/solution.cpp`) |
@@ -29,6 +32,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](74-search-a-2d-matrix/) (`74-search-a-2d-matrix/solution.cpp`) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](75-sort-colors/) (`75-sort-colors/solution.cpp`) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Solution](76-minimum-window-substring/) (`76-minimum-window-substring/solution.cpp`) |
+| 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Solution](78-subsets/) (`78-subsets/solution.cpp`) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](79-word-search/) (`79-word-search/solution.cpp`) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Solution](83-remove-duplicates-from-sorted-list/) (`83-remove-duplicates-from-sorted-list/solution.cpp`) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Solution](88-merge-sorted-array/) (`88-merge-sorted-array/solution.cpp`) |
@@ -36,6 +40,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Solution](125-valid-palindrome/) (`125-valid-palindrome/solution.cpp`) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Solution](136-single-number/) (`136-single-number/solution.cpp`) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Solution](141-linked-list-cycle/) (`141-linked-list-cycle/solution.cpp`) |
+| 142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | Medium | [Solution](142-linked-list-cycle-ii/) (`142-linked-list-cycle-ii/solution.cpp`) |
 | 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/) | Medium | [Solution](150-evaluate-reverse-polish-notation/) (`150-evaluate-reverse-polish-notation/solution.cpp`) |
 | 151 | [Reverse Words in a String](https://leetcode.com/problems/reverse-words-in-a-string/) | Medium | [Solution](151-reverse-words-in-a-string/) (`151-reverse-words-in-a-string/solution.cpp`) |
 | 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | Medium | [Solution](153-find-minimum-in-rotated-sorted-array/) (`153-find-minimum-in-rotated-sorted-array/solution.cpp`) |
@@ -43,7 +48,9 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 162 | [Find Peak Element](https://leetcode.com/problems/find-peak-element/) | Medium | [Solution](162-find-peak-element/) (`162-find-peak-element/solution.cpp`) |
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](167-two-sum-ii-input-array-is-sorted/) (`167-two-sum-ii-input-array-is-sorted/solution.cpp`) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Solution](169-majority-element/) (`169-majority-element/solution.cpp`) |
+| 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Solution](175-combine-two-tables/) (`175-combine-two-tables/solution.sql`) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [Solution](202-happy-number/) (`202-happy-number/solution.cpp`) |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](206-reverse-linked-list/) (`206-reverse-linked-list/solution.cpp`) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](209-minimum-size-subarray-sum/) (`209-minimum-size-subarray-sum/solution.cpp`) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](217-contains-duplicate/) (`217-contains-duplicate/solution.cpp`) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Solution](219-contains-duplicate-ii/) (`219-contains-duplicate-ii/solution.cpp`) |
@@ -73,6 +80,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](692-top-k-frequent-words/) (`692-top-k-frequent-words/solution.cpp`) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](704-binary-search/) (`704-binary-search/solution.cpp`) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](875-koko-eating-bananas/) (`875-koko-eating-bananas/solution.cpp`) |
+| 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Solution](876-middle-of-the-linked-list/) (`876-middle-of-the-linked-list/solution.cpp`) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Solution](912-sort-an-array/) (`912-sort-an-array/solution.cpp`) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](977-squares-of-a-sorted-array/) (`977-squares-of-a-sorted-array/solution.cpp`) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](1011-capacity-to-ship-packages-within-d-days/) (`1011-capacity-to-ship-packages-within-d-days/solution.cpp`) |
