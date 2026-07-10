@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 90 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 39 &nbsp;·&nbsp; 🔴 Hard: 2
+**Total solved:** 94 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 42 &nbsp;·&nbsp; 🔴 Hard: 3
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -25,17 +25,21 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Solution](33-search-in-rotated-sorted-array/) (`33-search-in-rotated-sorted-array/solution.cpp`) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](35-search-insert-position/) (`35-search-insert-position/solution.cpp`) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](39-combination-sum/) (`39-combination-sum/solution.cpp`) |
+| 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Solution](40-combination-sum-ii/) (`40-combination-sum-ii/solution.cpp`) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](50-powx-n/) (`50-powx-n/solution.cpp`) |
+| 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Solution](51-n-queens/) (`51-n-queens/solution.cpp`) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](53-maximum-subarray/) (`53-maximum-subarray/solution.cpp`) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](58-length-of-last-word/) (`58-length-of-last-word/solution.cpp`) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](73-set-matrix-zeroes/) (`73-set-matrix-zeroes/solution.cpp`) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](74-search-a-2d-matrix/) (`74-search-a-2d-matrix/solution.cpp`) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](75-sort-colors/) (`75-sort-colors/solution.cpp`) |
 | 76 | [Minimum Window Substring](https://leetcode.com/problems/minimum-window-substring/) | Hard | [Solution](76-minimum-window-substring/) (`76-minimum-window-substring/solution.cpp`) |
+| 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [Solution](77-combinations/) (`77-combinations/solution.cpp`) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Solution](78-subsets/) (`78-subsets/solution.cpp`) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](79-word-search/) (`79-word-search/solution.cpp`) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Solution](83-remove-duplicates-from-sorted-list/) (`83-remove-duplicates-from-sorted-list/solution.cpp`) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Solution](88-merge-sorted-array/) (`88-merge-sorted-array/solution.cpp`) |
+| 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](90-subsets-ii/) (`90-subsets-ii/solution.cpp`) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](121-best-time-to-buy-and-sell-stock/) (`121-best-time-to-buy-and-sell-stock/solution.cpp`) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Solution](125-valid-palindrome/) (`125-valid-palindrome/solution.cpp`) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Solution](136-single-number/) (`136-single-number/solution.cpp`) |
