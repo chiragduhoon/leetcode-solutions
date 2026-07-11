@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 94 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 42 &nbsp;·&nbsp; 🔴 Hard: 3
+**Total solved:** 95 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 43 &nbsp;·&nbsp; 🔴 Hard: 3
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -26,6 +26,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](35-search-insert-position/) (`35-search-insert-position/solution.cpp`) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](39-combination-sum/) (`39-combination-sum/solution.cpp`) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Solution](40-combination-sum-ii/) (`40-combination-sum-ii/solution.cpp`) |
+| 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Solution](46-permutations/) (`46-permutations/solution.cpp`) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](50-powx-n/) (`50-powx-n/solution.cpp`) |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Solution](51-n-queens/) (`51-n-queens/solution.cpp`) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](53-maximum-subarray/) (`53-maximum-subarray/solution.cpp`) |
