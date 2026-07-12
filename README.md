@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 95 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 43 &nbsp;·&nbsp; 🔴 Hard: 3
+**Total solved:** 96 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 44 &nbsp;·&nbsp; 🔴 Hard: 3
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -74,6 +74,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Solution](410-split-array-largest-sum/) (`410-split-array-largest-sum/solution.cpp`) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Solution](438-find-all-anagrams-in-a-string/) (`438-find-all-anagrams-in-a-string/solution.cpp`) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Solution](485-max-consecutive-ones/) (`485-max-consecutive-ones/solution.cpp`) |
+| 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | Medium | [Solution](494-target-sum/) (`494-target-sum/solution.cpp`) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [Solution](509-fibonacci-number/) (`509-fibonacci-number/solution.cpp`) |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Solution](525-contiguous-array/) (`525-contiguous-array/solution.cpp`) |
 | 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | Medium | [Solution](560-subarray-sum-equals-k/) (`560-subarray-sum-equals-k/solution.cpp`) |
