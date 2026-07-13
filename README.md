@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 96 &nbsp;·&nbsp; 🟢 Easy: 49 &nbsp;·&nbsp; 🟡 Medium: 44 &nbsp;·&nbsp; 🔴 Hard: 3
+**Total solved:** 97 &nbsp;·&nbsp; 🟢 Easy: 50 &nbsp;·&nbsp; 🟡 Medium: 44 &nbsp;·&nbsp; 🔴 Hard: 3
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -59,6 +59,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](209-minimum-size-subarray-sum/) (`209-minimum-size-subarray-sum/solution.cpp`) |
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/) | Easy | [Solution](217-contains-duplicate/) (`217-contains-duplicate/solution.cpp`) |
 | 219 | [Contains Duplicate II](https://leetcode.com/problems/contains-duplicate-ii/) | Easy | [Solution](219-contains-duplicate-ii/) (`219-contains-duplicate-ii/solution.cpp`) |
+| 231 | [Power of Two](https://leetcode.com/problems/power-of-two/) | Easy | [Solution](231-power-of-two/) (`231-power-of-two/solution.cpp`) |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium | [Solution](238-product-of-array-except-self/) (`238-product-of-array-except-self/solution.cpp`) |
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | [Solution](240-search-a-2d-matrix-ii/) (`240-search-a-2d-matrix-ii/solution.cpp`) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Solution](242-valid-anagram/) (`242-valid-anagram/solution.cpp`) |
