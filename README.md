@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 98 &nbsp;·&nbsp; 🟢 Easy: 50 &nbsp;·&nbsp; 🟡 Medium: 45 &nbsp;·&nbsp; 🔴 Hard: 3
+**Total solved:** 99 &nbsp;·&nbsp; 🟢 Easy: 51 &nbsp;·&nbsp; 🟡 Medium: 45 &nbsp;·&nbsp; 🔴 Hard: 3
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -42,6 +42,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Solution](83-remove-duplicates-from-sorted-list/) (`83-remove-duplicates-from-sorted-list/solution.cpp`) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Solution](88-merge-sorted-array/) (`88-merge-sorted-array/solution.cpp`) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](90-subsets-ii/) (`90-subsets-ii/solution.cpp`) |
+| 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Solution](100-same-tree/) (`100-same-tree/solution.cpp`) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](121-best-time-to-buy-and-sell-stock/) (`121-best-time-to-buy-and-sell-stock/solution.cpp`) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Solution](125-valid-palindrome/) (`125-valid-palindrome/solution.cpp`) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Solution](136-single-number/) (`136-single-number/solution.cpp`) |
