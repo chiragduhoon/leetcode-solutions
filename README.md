@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 97 &nbsp;·&nbsp; 🟢 Easy: 50 &nbsp;·&nbsp; 🟡 Medium: 44 &nbsp;·&nbsp; 🔴 Hard: 3
+**Total solved:** 98 &nbsp;·&nbsp; 🟢 Easy: 50 &nbsp;·&nbsp; 🟡 Medium: 45 &nbsp;·&nbsp; 🔴 Hard: 3
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -18,6 +18,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 19 | [Remove Nth Node From End of List](https://leetcode.com/problems/remove-nth-node-from-end-of-list/) | Medium | [Solution](19-remove-nth-node-from-end-of-list/) (`19-remove-nth-node-from-end-of-list/solution.cpp`) |
 | 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | Easy | [Solution](20-valid-parentheses/) (`20-valid-parentheses/solution.cpp`) |
 | 21 | [Merge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/) | Easy | [Solution](21-merge-two-sorted-lists/) (`21-merge-two-sorted-lists/solution.cpp`) |
+| 24 | [Swap Nodes in Pairs](https://leetcode.com/problems/swap-nodes-in-pairs/) | Medium | [Solution](24-swap-nodes-in-pairs/) (`24-swap-nodes-in-pairs/solution.cpp`) |
 | 26 | [Remove Duplicates from Sorted Array](https://leetcode.com/problems/remove-duplicates-from-sorted-array/) | Easy | [Solution](26-remove-duplicates-from-sorted-array/) (`26-remove-duplicates-from-sorted-array/solution.cpp`) |
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Solution](27-remove-element/) (`27-remove-element/solution.py`) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [Solution](28-find-the-index-of-the-first-occurrence-in-a-string/) (`28-find-the-index-of-the-first-occurrence-in-a-string/solution.py`) |
