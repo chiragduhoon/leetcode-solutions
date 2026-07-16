@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 102 &nbsp;·&nbsp; 🟢 Easy: 54 &nbsp;·&nbsp; 🟡 Medium: 45 &nbsp;·&nbsp; 🔴 Hard: 3
+**Total solved:** 104 &nbsp;·&nbsp; 🟢 Easy: 54 &nbsp;·&nbsp; 🟡 Medium: 46 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -103,6 +103,8 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 2144 | [Minimum Cost of Buying Candies With Discount](https://leetcode.com/problems/minimum-cost-of-buying-candies-with-discount/) | Easy | [Solution](2144-minimum-cost-of-buying-candies-with-discount/) (`2144-minimum-cost-of-buying-candies-with-discount/solution.cpp`) |
 | 2877 | [Create a DataFrame from List](https://leetcode.com/problems/create-a-dataframe-from-list/) | Easy | [Solution](2877-create-a-dataframe-from-list/) (`2877-create-a-dataframe-from-list/solution.py`) |
 | 2965 | [Find Missing and Repeated Values](https://leetcode.com/problems/find-missing-and-repeated-values/) | Easy | [Solution](2965-find-missing-and-repeated-values/) (`2965-find-missing-and-repeated-values/solution.cpp`) |
+| 3336 | [Find the Number of Subsequences With Equal GCD](https://leetcode.com/problems/find-the-number-of-subsequences-with-equal-gcd/) | Hard | [Solution](3336-find-the-number-of-subsequences-with-equal-gcd/) (`3336-find-the-number-of-subsequences-with-equal-gcd/solution.cpp`) |
+| 3867 | [Sum of GCD of Formed Pairs](https://leetcode.com/problems/sum-of-gcd-of-formed-pairs/) | Medium | [Solution](3867-sum-of-gcd-of-formed-pairs/) (`3867-sum-of-gcd-of-formed-pairs/solution.cpp`) |
 | 3945 | [Digit Frequency Score](https://leetcode.com/problems/digit-frequency-score/) | Easy | [Solution](3945-digit-frequency-score/) (`3945-digit-frequency-score/solution.cpp`) |
 | 3946 | [Maximum Number of Items From Sale I](https://leetcode.com/problems/maximum-number-of-items-from-sale-i/) | Medium | [Solution](3946-maximum-number-of-items-from-sale-i/) (`3946-maximum-number-of-items-from-sale-i/solution.cpp`) |
 | 3950 | [Exactly One Consecutive Set Bits Pair](https://leetcode.com/problems/exactly-one-consecutive-set-bits-pair/) | Easy | [Solution](3950-exactly-one-consecutive-set-bits-pair/) (`3950-exactly-one-consecutive-set-bits-pair/solution.cpp`) |
