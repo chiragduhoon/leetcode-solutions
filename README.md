@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 104 &nbsp;·&nbsp; 🟢 Easy: 54 &nbsp;·&nbsp; 🟡 Medium: 46 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 106 &nbsp;·&nbsp; 🟢 Easy: 56 &nbsp;·&nbsp; 🟡 Medium: 46 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -45,6 +45,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 100 | [Same Tree](https://leetcode.com/problems/same-tree/) | Easy | [Solution](100-same-tree/) (`100-same-tree/solution.cpp`) |
 | 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/) | Easy | [Solution](101-symmetric-tree/) (`101-symmetric-tree/solution.cpp`) |
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Solution](104-maximum-depth-of-binary-tree/) (`104-maximum-depth-of-binary-tree/solution.cpp`) |
+| 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Solution](110-balanced-binary-tree/) (`110-balanced-binary-tree/solution.cpp`) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](121-best-time-to-buy-and-sell-stock/) (`121-best-time-to-buy-and-sell-stock/solution.cpp`) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Solution](125-valid-palindrome/) (`125-valid-palindrome/solution.cpp`) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Solution](136-single-number/) (`136-single-number/solution.cpp`) |
@@ -93,6 +94,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](704-binary-search/) (`704-binary-search/solution.cpp`) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](875-koko-eating-bananas/) (`875-koko-eating-bananas/solution.cpp`) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Solution](876-middle-of-the-linked-list/) (`876-middle-of-the-linked-list/solution.cpp`) |
+| 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Solution](905-sort-array-by-parity/) (`905-sort-array-by-parity/solution.cpp`) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Solution](912-sort-an-array/) (`912-sort-an-array/solution.cpp`) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](977-squares-of-a-sorted-array/) (`977-squares-of-a-sorted-array/solution.cpp`) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](1011-capacity-to-ship-packages-within-d-days/) (`1011-capacity-to-ship-packages-within-d-days/solution.cpp`) |
