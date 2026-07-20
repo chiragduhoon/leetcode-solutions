@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 106 &nbsp;·&nbsp; 🟢 Easy: 56 &nbsp;·&nbsp; 🟡 Medium: 46 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 107 &nbsp;·&nbsp; 🟢 Easy: 57 &nbsp;·&nbsp; 🟡 Medium: 46 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -89,6 +89,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 595 | [Big Countries](https://leetcode.com/problems/big-countries/) | Easy | [Solution](595-big-countries/) (`595-big-countries/solution.py`) |
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | [Solution](628-maximum-product-of-three-numbers/) (`628-maximum-product-of-three-numbers/solution.cpp`) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [Solution](643-maximum-average-subarray-i/) (`643-maximum-average-subarray-i/solution.cpp`) |
+| 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Solution](645-set-mismatch/) (`645-set-mismatch/solution.cpp`) |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [Solution](680-valid-palindrome-ii/) (`680-valid-palindrome-ii/solution.cpp`) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](692-top-k-frequent-words/) (`692-top-k-frequent-words/solution.cpp`) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](704-binary-search/) (`704-binary-search/solution.cpp`) |
