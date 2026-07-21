@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 107 &nbsp;·&nbsp; 🟢 Easy: 57 &nbsp;·&nbsp; 🟡 Medium: 46 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 108 &nbsp;·&nbsp; 🟢 Easy: 57 &nbsp;·&nbsp; 🟡 Medium: 47 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -39,6 +39,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 77 | [Combinations](https://leetcode.com/problems/combinations/) | Medium | [Solution](77-combinations/) (`77-combinations/solution.cpp`) |
 | 78 | [Subsets](https://leetcode.com/problems/subsets/) | Medium | [Solution](78-subsets/) (`78-subsets/solution.cpp`) |
 | 79 | [Word Search](https://leetcode.com/problems/word-search/) | Medium | [Solution](79-word-search/) (`79-word-search/solution.cpp`) |
+| 80 | [Remove Duplicates from Sorted Array II](https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/) | Medium | [Solution](80-remove-duplicates-from-sorted-array-ii/) (`80-remove-duplicates-from-sorted-array-ii/solution.cpp`) |
 | 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | Easy | [Solution](83-remove-duplicates-from-sorted-list/) (`83-remove-duplicates-from-sorted-list/solution.cpp`) |
 | 88 | [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/) | Easy | [Solution](88-merge-sorted-array/) (`88-merge-sorted-array/solution.cpp`) |
 | 90 | [Subsets II](https://leetcode.com/problems/subsets-ii/) | Medium | [Solution](90-subsets-ii/) (`90-subsets-ii/solution.cpp`) |
