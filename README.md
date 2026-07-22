@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 108 &nbsp;·&nbsp; 🟢 Easy: 57 &nbsp;·&nbsp; 🟡 Medium: 47 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 110 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 48 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -60,6 +60,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 167 | [Two Sum II - Input Array Is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/) | Medium | [Solution](167-two-sum-ii-input-array-is-sorted/) (`167-two-sum-ii-input-array-is-sorted/solution.cpp`) |
 | 169 | [Majority Element](https://leetcode.com/problems/majority-element/) | Easy | [Solution](169-majority-element/) (`169-majority-element/solution.cpp`) |
 | 175 | [Combine Two Tables](https://leetcode.com/problems/combine-two-tables/) | Easy | [Solution](175-combine-two-tables/) (`175-combine-two-tables/solution.sql`) |
+| 189 | [Rotate Array](https://leetcode.com/problems/rotate-array/) | Medium | [Solution](189-rotate-array/) (`189-rotate-array/solution.cpp`) |
 | 202 | [Happy Number](https://leetcode.com/problems/happy-number/) | Easy | [Solution](202-happy-number/) (`202-happy-number/solution.cpp`) |
 | 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | Easy | [Solution](206-reverse-linked-list/) (`206-reverse-linked-list/solution.cpp`) |
 | 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | Medium | [Solution](209-minimum-size-subarray-sum/) (`209-minimum-size-subarray-sum/solution.cpp`) |
@@ -100,6 +101,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Solution](912-sort-an-array/) (`912-sort-an-array/solution.cpp`) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](977-squares-of-a-sorted-array/) (`977-squares-of-a-sorted-array/solution.cpp`) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](1011-capacity-to-ship-packages-within-d-days/) (`1011-capacity-to-ship-packages-within-d-days/solution.cpp`) |
+| 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | [Solution](1365-how-many-numbers-are-smaller-than-the-current-number/) (`1365-how-many-numbers-are-smaller-than-the-current-number/solution.cpp`) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [Solution](1456-maximum-number-of-vowels-in-a-substring-of-given-length/) (`1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.cpp`) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | [Solution](1470-shuffle-the-array/) (`1470-shuffle-the-array/solution.cpp`) |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | [Solution](1652-defuse-the-bomb/) (`1652-defuse-the-bomb/solution.cpp`) |
