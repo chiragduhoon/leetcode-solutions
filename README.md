@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 111 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 49 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 113 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 51 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -27,6 +27,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](35-search-insert-position/) (`35-search-insert-position/solution.cpp`) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](39-combination-sum/) (`39-combination-sum/solution.cpp`) |
 | 40 | [Combination Sum II](https://leetcode.com/problems/combination-sum-ii/) | Medium | [Solution](40-combination-sum-ii/) (`40-combination-sum-ii/solution.cpp`) |
+| 45 | [Jump Game II](https://leetcode.com/problems/jump-game-ii/) | Medium | [Solution](45-jump-game-ii/) (`45-jump-game-ii/solution.cpp`) |
 | 46 | [Permutations](https://leetcode.com/problems/permutations/) | Medium | [Solution](46-permutations/) (`46-permutations/solution.cpp`) |
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](50-powx-n/) (`50-powx-n/solution.cpp`) |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Solution](51-n-queens/) (`51-n-queens/solution.cpp`) |
@@ -49,6 +50,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 104 | [Maximum Depth of Binary Tree](https://leetcode.com/problems/maximum-depth-of-binary-tree/) | Easy | [Solution](104-maximum-depth-of-binary-tree/) (`104-maximum-depth-of-binary-tree/solution.cpp`) |
 | 110 | [Balanced Binary Tree](https://leetcode.com/problems/balanced-binary-tree/) | Easy | [Solution](110-balanced-binary-tree/) (`110-balanced-binary-tree/solution.cpp`) |
 | 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | Easy | [Solution](121-best-time-to-buy-and-sell-stock/) (`121-best-time-to-buy-and-sell-stock/solution.cpp`) |
+| 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | Medium | [Solution](122-best-time-to-buy-and-sell-stock-ii/) (`122-best-time-to-buy-and-sell-stock-ii/solution.cpp`) |
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/) | Easy | [Solution](125-valid-palindrome/) (`125-valid-palindrome/solution.cpp`) |
 | 136 | [Single Number](https://leetcode.com/problems/single-number/) | Easy | [Solution](136-single-number/) (`136-single-number/solution.cpp`) |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | Easy | [Solution](141-linked-list-cycle/) (`141-linked-list-cycle/solution.cpp`) |
