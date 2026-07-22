@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 110 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 48 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 111 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 49 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -31,6 +31,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | Medium | [Solution](50-powx-n/) (`50-powx-n/solution.cpp`) |
 | 51 | [N-Queens](https://leetcode.com/problems/n-queens/) | Hard | [Solution](51-n-queens/) (`51-n-queens/solution.cpp`) |
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](53-maximum-subarray/) (`53-maximum-subarray/solution.cpp`) |
+| 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Solution](55-jump-game/) (`55-jump-game/solution.cpp`) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](58-length-of-last-word/) (`58-length-of-last-word/solution.cpp`) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](73-set-matrix-zeroes/) (`73-set-matrix-zeroes/solution.cpp`) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](74-search-a-2d-matrix/) (`74-search-a-2d-matrix/solution.cpp`) |
