@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 113 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 51 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 114 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 52 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -75,6 +75,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 240 | [Search a 2D Matrix II](https://leetcode.com/problems/search-a-2d-matrix-ii/) | Medium | [Solution](240-search-a-2d-matrix-ii/) (`240-search-a-2d-matrix-ii/solution.cpp`) |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/) | Easy | [Solution](242-valid-anagram/) (`242-valid-anagram/solution.cpp`) |
 | 268 | [Missing Number](https://leetcode.com/problems/missing-number/) | Easy | [Solution](268-missing-number/) (`268-missing-number/solution.cpp`) |
+| 274 | [H-Index](https://leetcode.com/problems/h-index/) | Medium | [Solution](274-h-index/) (`274-h-index/solution.cpp`) |
 | 278 | [First Bad Version](https://leetcode.com/problems/first-bad-version/) | Easy | [Solution](278-first-bad-version/) (`278-first-bad-version/solution.cpp`) |
 | 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/) | Easy | [Solution](283-move-zeroes/) (`283-move-zeroes/solution.cpp`) |
 | 287 | [Find the Duplicate Number](https://leetcode.com/problems/find-the-duplicate-number/) | Medium | [Solution](287-find-the-duplicate-number/) (`287-find-the-duplicate-number/solution.cpp`) |
