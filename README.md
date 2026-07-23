@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 114 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 52 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 115 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 53 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -83,6 +83,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 344 | [Reverse String](https://leetcode.com/problems/reverse-string/) | Easy | [Solution](344-reverse-string/) (`344-reverse-string/solution.cpp`) |
 | 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | Easy | [Solution](349-intersection-of-two-arrays/) (`349-intersection-of-two-arrays/solution.cpp`) |
 | 374 | [Guess Number Higher or Lower](https://leetcode.com/problems/guess-number-higher-or-lower/) | Easy | [Solution](374-guess-number-higher-or-lower/) (`374-guess-number-higher-or-lower/solution.cpp`) |
+| 380 | [Insert Delete GetRandom O(1)](https://leetcode.com/problems/insert-delete-getrandom-o1/) | Medium | [Solution](380-insert-delete-getrandom-o1/) (`380-insert-delete-getrandom-o1/solution.cpp`) |
 | 383 | [Ransom Note](https://leetcode.com/problems/ransom-note/) | Easy | [Solution](383-ransom-note/) (`383-ransom-note/solution.cpp`) |
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Solution](410-split-array-largest-sum/) (`410-split-array-largest-sum/solution.cpp`) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Solution](438-find-all-anagrams-in-a-string/) (`438-find-all-anagrams-in-a-string/solution.cpp`) |
