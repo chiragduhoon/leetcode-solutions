@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 116 &nbsp;·&nbsp; 🟢 Easy: 58 &nbsp;·&nbsp; 🟡 Medium: 54 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 117 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 54 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -34,6 +34,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | Medium | [Solution](53-maximum-subarray/) (`53-maximum-subarray/solution.cpp`) |
 | 55 | [Jump Game](https://leetcode.com/problems/jump-game/) | Medium | [Solution](55-jump-game/) (`55-jump-game/solution.cpp`) |
 | 58 | [Length of Last Word](https://leetcode.com/problems/length-of-last-word/) | Easy | [Solution](58-length-of-last-word/) (`58-length-of-last-word/solution.cpp`) |
+| 66 | [Plus One](https://leetcode.com/problems/plus-one/) | Easy | [Solution](66-plus-one/) (`66-plus-one/solution.cpp`) |
 | 73 | [Set Matrix Zeroes](https://leetcode.com/problems/set-matrix-zeroes/) | Medium | [Solution](73-set-matrix-zeroes/) (`73-set-matrix-zeroes/solution.cpp`) |
 | 74 | [Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/) | Medium | [Solution](74-search-a-2d-matrix/) (`74-search-a-2d-matrix/solution.cpp`) |
 | 75 | [Sort Colors](https://leetcode.com/problems/sort-colors/) | Medium | [Solution](75-sort-colors/) (`75-sort-colors/solution.cpp`) |
