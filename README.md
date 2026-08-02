@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 117 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 54 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 118 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 55 &nbsp;·&nbsp; 🔴 Hard: 4
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -104,6 +104,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](704-binary-search/) (`704-binary-search/solution.cpp`) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](875-koko-eating-bananas/) (`875-koko-eating-bananas/solution.cpp`) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Solution](876-middle-of-the-linked-list/) (`876-middle-of-the-linked-list/solution.cpp`) |
+| 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [Solution](877-stone-game/) (`877-stone-game/solution.cpp`) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Solution](905-sort-array-by-parity/) (`905-sort-array-by-parity/solution.cpp`) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Solution](912-sort-an-array/) (`912-sort-an-array/solution.cpp`) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](977-squares-of-a-sorted-array/) (`977-squares-of-a-sorted-array/solution.cpp`) |
