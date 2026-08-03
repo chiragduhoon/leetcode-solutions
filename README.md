@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 118 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 55 &nbsp;·&nbsp; 🔴 Hard: 4
+**Total solved:** 120 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 56 &nbsp;·&nbsp; 🔴 Hard: 5
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -90,6 +90,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 410 | [Split Array Largest Sum](https://leetcode.com/problems/split-array-largest-sum/) | Hard | [Solution](410-split-array-largest-sum/) (`410-split-array-largest-sum/solution.cpp`) |
 | 438 | [Find All Anagrams in a String](https://leetcode.com/problems/find-all-anagrams-in-a-string/) | Medium | [Solution](438-find-all-anagrams-in-a-string/) (`438-find-all-anagrams-in-a-string/solution.cpp`) |
 | 485 | [Max Consecutive Ones](https://leetcode.com/problems/max-consecutive-ones/) | Easy | [Solution](485-max-consecutive-ones/) (`485-max-consecutive-ones/solution.cpp`) |
+| 486 | [Predict the Winner](https://leetcode.com/problems/predict-the-winner/) | Medium | [Solution](486-predict-the-winner/) (`486-predict-the-winner/solution.cpp`) |
 | 494 | [Target Sum](https://leetcode.com/problems/target-sum/) | Medium | [Solution](494-target-sum/) (`494-target-sum/solution.cpp`) |
 | 509 | [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/) | Easy | [Solution](509-fibonacci-number/) (`509-fibonacci-number/solution.cpp`) |
 | 525 | [Contiguous Array](https://leetcode.com/problems/contiguous-array/) | Medium | [Solution](525-contiguous-array/) (`525-contiguous-array/solution.cpp`) |
@@ -110,6 +111,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](977-squares-of-a-sorted-array/) (`977-squares-of-a-sorted-array/solution.cpp`) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](1011-capacity-to-ship-packages-within-d-days/) (`1011-capacity-to-ship-packages-within-d-days/solution.cpp`) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | [Solution](1365-how-many-numbers-are-smaller-than-the-current-number/) (`1365-how-many-numbers-are-smaller-than-the-current-number/solution.cpp`) |
+| 1406 | [Stone Game III](https://leetcode.com/problems/stone-game-iii/) | Hard | [Solution](1406-stone-game-iii/) (`1406-stone-game-iii/solution.cpp`) |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](https://leetcode.com/problems/maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium | [Solution](1456-maximum-number-of-vowels-in-a-substring-of-given-length/) (`1456-maximum-number-of-vowels-in-a-substring-of-given-length/solution.cpp`) |
 | 1470 | [Shuffle the Array](https://leetcode.com/problems/shuffle-the-array/) | Easy | [Solution](1470-shuffle-the-array/) (`1470-shuffle-the-array/solution.cpp`) |
 | 1652 | [Defuse the Bomb](https://leetcode.com/problems/defuse-the-bomb/) | Easy | [Solution](1652-defuse-the-bomb/) (`1652-defuse-the-bomb/solution.cpp`) |
