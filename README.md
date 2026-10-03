@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 121 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 57 &nbsp;·&nbsp; 🔴 Hard: 5
+**Total solved:** 122 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 57 &nbsp;·&nbsp; 🔴 Hard: 6
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -24,6 +24,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 27 | [Remove Element](https://leetcode.com/problems/remove-element/) | Easy | [Solution](27-remove-element/) (`27-remove-element/solution.py`) |
 | 28 | [Find the Index of the First Occurrence in a String](https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string/) | Easy | [Solution](28-find-the-index-of-the-first-occurrence-in-a-string/) (`28-find-the-index-of-the-first-occurrence-in-a-string/solution.py`) |
 | 31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | Medium | [Solution](31-next-permutation/) (`31-next-permutation/solution.cpp`) |
+| 32 | [Longest Valid Parentheses](https://leetcode.com/problems/longest-valid-parentheses/) | Hard | [Solution](32-longest-valid-parentheses/) (`32-longest-valid-parentheses/solution.cpp`) |
 | 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | Medium | [Solution](33-search-in-rotated-sorted-array/) (`33-search-in-rotated-sorted-array/solution.cpp`) |
 | 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | Easy | [Solution](35-search-insert-position/) (`35-search-insert-position/solution.cpp`) |
 | 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | Medium | [Solution](39-combination-sum/) (`39-combination-sum/solution.cpp`) |
