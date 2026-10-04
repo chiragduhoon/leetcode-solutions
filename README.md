@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 122 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 57 &nbsp;·&nbsp; 🔴 Hard: 6
+**Total solved:** 123 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 58 &nbsp;·&nbsp; 🔴 Hard: 6
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -102,6 +102,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 628 | [Maximum Product of Three Numbers](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | [Solution](628-maximum-product-of-three-numbers/) (`628-maximum-product-of-three-numbers/solution.cpp`) |
 | 643 | [Maximum Average Subarray I](https://leetcode.com/problems/maximum-average-subarray-i/) | Easy | [Solution](643-maximum-average-subarray-i/) (`643-maximum-average-subarray-i/solution.cpp`) |
 | 645 | [Set Mismatch](https://leetcode.com/problems/set-mismatch/) | Easy | [Solution](645-set-mismatch/) (`645-set-mismatch/solution.cpp`) |
+| 678 | [Valid Parenthesis String](https://leetcode.com/problems/valid-parenthesis-string/) | Medium | [Solution](678-valid-parenthesis-string/) (`678-valid-parenthesis-string/solution.cpp`) |
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [Solution](680-valid-palindrome-ii/) (`680-valid-palindrome-ii/solution.cpp`) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](692-top-k-frequent-words/) (`692-top-k-frequent-words/solution.cpp`) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](704-binary-search/) (`704-binary-search/solution.cpp`) |
