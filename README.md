@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 123 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 58 &nbsp;·&nbsp; 🔴 Hard: 6
+**Total solved:** 124 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 59 &nbsp;·&nbsp; 🔴 Hard: 6
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -106,6 +106,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 680 | [Valid Palindrome II](https://leetcode.com/problems/valid-palindrome-ii/) | Easy | [Solution](680-valid-palindrome-ii/) (`680-valid-palindrome-ii/solution.cpp`) |
 | 692 | [Top K Frequent Words](https://leetcode.com/problems/top-k-frequent-words/) | Medium | [Solution](692-top-k-frequent-words/) (`692-top-k-frequent-words/solution.cpp`) |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/) | Easy | [Solution](704-binary-search/) (`704-binary-search/solution.cpp`) |
+| 856 | [Score of Parentheses](https://leetcode.com/problems/score-of-parentheses/) | Medium | [Solution](856-score-of-parentheses/) (`856-score-of-parentheses/solution.cpp`) |
 | 875 | [Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/) | Medium | [Solution](875-koko-eating-bananas/) (`875-koko-eating-bananas/solution.cpp`) |
 | 876 | [Middle of the Linked List](https://leetcode.com/problems/middle-of-the-linked-list/) | Easy | [Solution](876-middle-of-the-linked-list/) (`876-middle-of-the-linked-list/solution.cpp`) |
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [Solution](877-stone-game/) (`877-stone-game/solution.cpp`) |
