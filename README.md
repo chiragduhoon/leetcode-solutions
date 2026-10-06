@@ -2,7 +2,7 @@
 
 Automatically synced from LeetCode by [Leet2Git](https://github.com).
 
-**Total solved:** 124 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 59 &nbsp;·&nbsp; 🔴 Hard: 6
+**Total solved:** 125 &nbsp;·&nbsp; 🟢 Easy: 59 &nbsp;·&nbsp; 🟡 Medium: 60 &nbsp;·&nbsp; 🔴 Hard: 6
 
 | # | Problem | Difficulty | Solution |
 | --- | --- | --- | --- |
@@ -112,6 +112,7 @@ Automatically synced from LeetCode by [Leet2Git](https://github.com).
 | 877 | [Stone Game](https://leetcode.com/problems/stone-game/) | Medium | [Solution](877-stone-game/) (`877-stone-game/solution.cpp`) |
 | 905 | [Sort Array By Parity](https://leetcode.com/problems/sort-array-by-parity/) | Easy | [Solution](905-sort-array-by-parity/) (`905-sort-array-by-parity/solution.cpp`) |
 | 912 | [Sort an Array](https://leetcode.com/problems/sort-an-array/) | Medium | [Solution](912-sort-an-array/) (`912-sort-an-array/solution.cpp`) |
+| 921 | [Minimum Add to Make Parentheses Valid](https://leetcode.com/problems/minimum-add-to-make-parentheses-valid/) | Medium | [Solution](921-minimum-add-to-make-parentheses-valid/) (`921-minimum-add-to-make-parentheses-valid/solution.cpp`) |
 | 977 | [Squares of a Sorted Array](https://leetcode.com/problems/squares-of-a-sorted-array/) | Easy | [Solution](977-squares-of-a-sorted-array/) (`977-squares-of-a-sorted-array/solution.cpp`) |
 | 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | Medium | [Solution](1011-capacity-to-ship-packages-within-d-days/) (`1011-capacity-to-ship-packages-within-d-days/solution.cpp`) |
 | 1365 | [How Many Numbers Are Smaller Than the Current Number](https://leetcode.com/problems/how-many-numbers-are-smaller-than-the-current-number/) | Easy | [Solution](1365-how-many-numbers-are-smaller-than-the-current-number/) (`1365-how-many-numbers-are-smaller-than-the-current-number/solution.cpp`) |
